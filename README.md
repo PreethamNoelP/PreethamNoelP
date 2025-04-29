@@ -1,39 +1,43 @@
 # 👨‍💻 Preetham Noel P
-
+# <img src="file:///C:/Users/preet/OneDrive/Pictures/Preetham%20Noel%20P%20-1.jpg" alt="Preetham's Photo" style="width:150px; height:150px; border-radius:50%;" />
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
-**B-Tech Data Science Student | AI/ML Enthusiast | Technical Writer | Innovator with Patents & Publications**
+Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths lie in Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
 
-Welcome to my GitHub! I'm a data science enthusiast with a strong academic background, hands-on experience, and a passion for solving real-world problems using AI, Machine Learning, NLP, and Big Data. With multiple patents and international research publications, I specialize in building impactful, scalable, and intelligent systems.
+With 2 granted patents and 3 international research publications, I bring a strong foundation in both applied research and industry-aligned development. My work spans designing AI architectures, fine-tuning language models, automating analytics, and integrating ML pipelines. I'm passionate about leveraging cutting-edge technologies to create solutions that are not only efficient but also meaningful and transformative.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Preetham%20Noel%20P-blue?logo=linkedin)](https://www.linkedin.com/in/preetham-noel-p-752564268)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=githubpages)](https://preethamnoelp.github.io/Portfolio-PreethamNoelP)  
-[![GitHub](https://img.shields.io/badge/GitHub-PreethamNoelP-black?logo=github)](https://github.com/PreethamNoelP)
+<a href="https://www.linkedin.com/in/preetham-noel-p-752564268"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:preethamnoel.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://preethamnoelp.github.io/Portfolio-PreethamNoelP/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![NLP](https://img.shields.io/badge/-Natural%20Language%20Processing-blueviolet)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellowgreen)  
-![Big Data](https://img.shields.io/badge/-Big%20Data-orange)  
-![LangChain](https://img.shields.io/badge/-LangChain-ffaa00?logo=chainlink&logoColor=white)  
-![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-blue?logo=googlecloud)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLP-7A1FA2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-BB6BD9?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethamNoelP&show_icons=true&theme=radical)  
+![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethamNoelP&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamNoelP&layout=compact&theme=radical)
 
 ---
@@ -42,15 +46,15 @@ Welcome to my GitHub! I'm a data science enthusiast with a strong academic backg
 
 - **Languages & Tools:** Python, Java, C (Basic), SQL, SPSS, Power BI, Excel, FireDucks  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Transformers  
-- **Specializations:** NLP, Large Language Models (LLMs), Machine Learning, Big Data, AI, Data Structures & Algorithms  
+- **Specializations:** Natural Language Processing, LLMs, Machine Learning, Big Data, AI, Data Structures & Algorithms  
 - **Soft Skills:** Leadership, Communication, Problem-Solving, Teamwork, Time Management, Critical Thinking
 
 ---
 
-## 🧪 Patents
+## 🚀 Patents
 
-1. **Optimizing Healthcare Towards a Beneficial Future with Cutting-Edge Medical Solutions** | 2024  
-2. **AI-Driven Cyberbullying Detection and Intervention System Utilizing Hybrid LSTM-BERT Architecture** | 2024
+1. **Optimizing Healthcare Towards a Beneficial Future with Cutting-Edge Medical Solutions** (2024)  
+2. **AI-Driven Cyberbullying Detection and Intervention System Utilizing Hybrid LSTM-BERT Architecture** (2024)
 
 ---
 
@@ -64,4 +68,3 @@ Welcome to my GitHub! I'm a data science enthusiast with a strong academic backg
 
 - **"Performance Analysis of CPU and GPU Processors Using Advanced Data Analysis Techniques"**  
   *Springer, ETMCIS Conference, June 2024*
-
