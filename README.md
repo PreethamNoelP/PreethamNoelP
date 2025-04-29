@@ -1,4 +1,5 @@
-# 👨‍💻 Preetham Noel P
+# ![Data Science Icon](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=python&logoColor=white) Preetham Noel P
+
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
 Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths are focused on Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
