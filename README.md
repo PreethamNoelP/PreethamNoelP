@@ -1,4 +1,4 @@
-# ![Data Science Icon](https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logo=python&logoColor=white) Preetham Noel P
+# 🧑‍💻 Preetham Noel P
 
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
