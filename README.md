@@ -1,5 +1,4 @@
 # 👨‍💻 Preetham Noel P
-# <img src="file:///C:/Users/preet/OneDrive/Pictures/Preetham%20Noel%20P%20-1.jpg" alt="Preetham's Photo" style="width:150px; height:150px; border-radius:50%;" />
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
 Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths lie in Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
