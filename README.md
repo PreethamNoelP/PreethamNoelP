@@ -1,7 +1,7 @@
 # 👨‍💻 Preetham Noel P
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
-Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths lie in Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
+Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths are focused on Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
 
 With 2 granted patents and 3 international research publications, I bring a strong foundation in both applied research and industry-aligned development. My work spans designing AI architectures, fine-tuning language models, automating analytics, and integrating ML pipelines. I'm passionate about leveraging cutting-edge technologies to create solutions that are not only efficient but also meaningful and transformative.
 
@@ -27,7 +27,6 @@ With 2 granted patents and 3 international research publications, I bring a stro
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-BB6BD9?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
