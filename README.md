@@ -2,9 +2,9 @@
 
 **Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
 
-Versatile and impact-driven technology professional with hands-on experience in building intelligent systems, optimizing AI workflows, and solving real-world problems through data-driven innovation. My technical strengths are focused on Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs), with a proven track record of implementing scalable solutions across diverse domains.
+As a versatile and impact-driven technology professional, I specialize in building intelligent systems, optimizing AI workflows, and solving real-world problems with data-driven innovation. I bring hands-on experience in Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I have a proven track record of implementing scalable solutions across a variety of domains, turning complex challenges into actionable insights.
 
-With 2 granted patents and 3 international research publications, I bring a strong foundation in both applied research and industry-aligned development. My work spans designing AI architectures, fine-tuning language models, automating analytics, and integrating ML pipelines. I'm passionate about leveraging cutting-edge technologies to create solutions that are not only efficient but also meaningful and transformative.
+With 2 granted patents and 3 international research publications, I combine a strong foundation in both applied research and industry-focused development. My work spans designing AI architectures, fine-tuning language models, automating analytics, and integrating ML pipelines. I am passionate about leveraging cutting-edge technologies to create solutions that are not only efficient but also transformative.
 
 ---
 
