@@ -1,56 +1,62 @@
-# 🧑‍💻 Preetham Noel P
+<h1 align="center">Preetham Noel P</h1>
 
-**Data Science | AI/ML | NLP | LLM | 2× Patent Holder | 3× Published Researcher**
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-7F77DD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP%20%C2%B7%20LLMs-1D9E75?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/2%C3%97%20Patent%20Holder-F0992B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Published%20Researcher-E24B4A?style=flat-square&logoColor=white" />
+</p>
 
-As a versatile and impact-driven technology professional, I specialize in building intelligent systems, optimizing AI workflows, and solving real-world problems with data-driven innovation. I bring hands-on experience in Python, Java, SQL, Machine Learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I have a proven track record of implementing scalable solutions across a variety of domains, turning complex challenges into actionable insights.
-
-With 2 granted patents and 3 international research publications, I combine a strong foundation in both applied research and industry-focused development. My work spans designing AI architectures, fine-tuning language models, automating analytics, and integrating ML pipelines. I am passionate about leveraging cutting-edge technologies to create solutions that are not only efficient but also transformative.
+<p align="center">
+I build intelligent systems — and question how they can be made simpler, smarter, and more useful.<br/>
+My work lives at the intersection of AI, data, and real-world impact: scalable ML, language models, and insights that matter.<br/>
+I've contributed to international research and secured patents in <strong>healthcare</strong> and <strong>cybersecurity</strong>.
+</p>
 
 ---
 
-## 🌐 Socials
+## 🧠 Skills
 
-<a href="https://www.linkedin.com/in/preetham-noel-p-752564268"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:preethamnoel.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
-
-## 💻 Tech Stack
-
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SPSS-0081CB?style=for-the-badge&logo=ibm&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-7A1FA2?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-009688?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
+```text
+Languages         Python · Java · SQL · C
+Data & Analytics  Pandas · NumPy · Power BI · SPSS · Excel
+Visualization     Matplotlib · Seaborn · Plotly
+ML / AI           Scikit-learn · Transformers · LLMs · NLP
+Tools             Git · GitHub · VS Code
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-![Preetham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreethamNoelP&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamNoelP&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🧠 Key Skills
+## 📄 Patents
 
-- **Languages & Tools:** Python, Java, C (Basic), SQL, SPSS, Power BI, Excel, FireDucks  
-- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, Transformers  
-- **Specializations:** Natural Language Processing, LLMs, Machine Learning, Big Data, AI, Data Structures & Algorithms  
-- **Soft Skills:** Leadership, Communication, Problem-Solving, Teamwork, Time Management, Critical Thinking
-
----
-
-## 🚀 Patents
-
-1. **Optimizing Healthcare Towards a Beneficial Future with Cutting-Edge Medical Solutions** (2024)  
-2. **AI-Driven Cyberbullying Detection and Intervention System Utilizing Hybrid LSTM-BERT Architecture** (2024)
+- **Optimizing healthcare towards a beneficial future with cutting-edge medical solutions** — 2024
+- **AI-driven cyberbullying detection and intervention utilizing hybrid LSTM-BERT architecture** — 2024
 
 ---
 
 ## 📚 Publications
 
-- **"Statistical Data Analysis of Anticorrosion and Antifouling: Unveiling Insights from Performance and Trends"**  
-  *John Wiley & Sons, Inc., October 2024*
+- *Statistical data analysis of anticorrosion and antifouling* — **John Wiley & Sons**, Oct 2024
+- *Portable and automated healthcare platform integrated with IoT* — **John Wiley & Sons**, Aug 2024
+- *Performance analysis of CPU and GPU processors using advanced data analysis* — **Springer, ETMCIS**, Jun 2024
 
-- **"Portable and Automated Healthcare Platform Integrated with IoT Technology"**  
-  *John Wiley & Sons, Inc., August 2024*
+---
 
-- **"Performance Analysis of CPU and GPU Processors Using Advanced Data Analysis Techniques"**  
-  *Springer, ETMCIS Conference, June 2024*
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+<p align="center"><i>Building meaningful, scalable, and impactful AI-driven solutions.</i></p>
