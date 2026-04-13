@@ -12,7 +12,6 @@ With 2 granted patents and 3 international research publications, I combine a st
 
 <a href="https://www.linkedin.com/in/preetham-noel-p-752564268"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:preethamnoel.05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://preethamnoelp.github.io/Portfolio-PreethamNoelP/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 ---
 
