@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-I build intelligent systems — and question how they can be made simpler, smarter, and more useful.<br/>
+I build intelligent systems and question how they can be made simpler, smarter, and more useful.<br/>
 My work lives at the intersection of AI, data, and real-world impact: scalable ML, language models, and insights that matter.<br/>
 I've contributed to international research and secured patents in <strong>healthcare</strong> and <strong>cybersecurity</strong>.
 </p>
@@ -39,23 +39,23 @@ Tools             Git · GitHub · VS Code
 
 ## 📄 Patents
 
-- **Optimizing healthcare towards a beneficial future with cutting-edge medical solutions** — 2024
-- **AI-driven cyberbullying detection and intervention utilizing hybrid LSTM-BERT architecture** — 2024
+- **Optimizing healthcare towards a beneficial future with cutting-edge medical solutions** - 2024
+- **AI-driven cyberbullying detection and intervention utilizing hybrid LSTM-BERT architecture** - 2024
 
 ---
 
 ## 📚 Publications
 
-- *Statistical data analysis of anticorrosion and antifouling* — **John Wiley & Sons**, Oct 2024
-- *Portable and automated healthcare platform integrated with IoT* — **John Wiley & Sons**, Aug 2024
-- *Performance analysis of CPU and GPU processors using advanced data analysis* — **Springer, ETMCIS**, Jun 2024
+- *Statistical data analysis of anticorrosion and antifouling* - **John Wiley & Sons**, Oct 2024
+- *Portable and automated healthcare platform integrated with IoT* - **John Wiley & Sons**, Aug 2024
+- *Performance analysis of CPU and GPU processors using advanced data analysis* - **Springer, ETMCIS**, Jun 2024
 
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preethamnoelp)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:preethamnoel.05@gmail.com)
 
 ---
 
