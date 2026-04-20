@@ -12,108 +12,42 @@
   <img src="https://img.shields.io/badge/4%C3%97%20Published%20Author-0f3460?style=flat-square&logoColor=00D4AA"/>
 </p>
 
-<br/>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 **AI/ML Engineer** at the intersection of research and real-world production impact
-- 🔬 **4× Published Author · 2× Patent Holder** — spanning healthcare AI, cybersecurity & NLP
+- 🔬 **4× Published Author · 2× Patent Holder** - spanning healthcare AI, cybersecurity & NLP
 - 🛠️ Building **scalable AI systems** that bridge cutting-edge research and deployment
-- 💡 Core focus: **LLMs · RAG Pipelines · Agentic Systems · Data Engineering**
-- 🎯 I build intelligent systems — and question how to make them simpler, smarter, and more useful
+- 💡 Core focus: **LLMs · RAG Pipelines · Agentic Systems · AI Product Management · Data Science**
+- 🎯 I build intelligent systems - and question how to make them simpler, smarter, and more useful
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-0f3460?style=flat-square&logo=python&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/SQL-0f3460?style=flat-square&logo=mysql&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Java-0f3460?style=flat-square&logo=openjdk&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Go-0f3460?style=flat-square&logo=go&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/C-0f3460?style=flat-square&logo=c&logoColor=00D4AA"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Engineering</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-0f3460?style=flat-square&logo=mongodb&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/MySQL-0f3460?style=flat-square&logo=mysql&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Model%20Context%20Protocol-0f3460?style=flat-square&logoColor=00D4AA"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/NLP-0f3460?style=flat-square&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/RAG%20Pipelines%20(FAISS)-0f3460?style=flat-square&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/A%2FB%20Testing-0f3460?style=flat-square&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Model%20Evaluation%20Metrics-0f3460?style=flat-square&logoColor=00D4AA"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>GenAI / LLMs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LLMs-0f3460?style=flat-square&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/LangChain-0f3460?style=flat-square&logo=langchain&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/OpenAI%20Evals-0f3460?style=flat-square&logo=openai&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Agentic%20Systems-0f3460?style=flat-square&logoColor=00D4AA"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-0f3460?style=flat-square&logo=amazonaws&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Docker-0f3460?style=flat-square&logo=docker&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/CI%2FCD-0f3460?style=flat-square&logo=githubactions&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Power%20BI-0f3460?style=flat-square&logo=powerbi&logoColor=00D4AA"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-0f3460?style=flat-square&logo=git&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/GitHub-0f3460?style=flat-square&logo=github&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Bitbucket-0f3460?style=flat-square&logo=bitbucket&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/VS%20Code-0f3460?style=flat-square&logo=visualstudiocode&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Jupyter-0f3460?style=flat-square&logo=jupyter&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Postman-0f3460?style=flat-square&logo=postman&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Cursor-0f3460?style=flat-square&logoColor=00D4AA"/>
-      <img src="https://img.shields.io/badge/Claude-0f3460?style=flat-square&logoColor=00D4AA"/>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📚 Research & Publications
 
 ### 📄 Patents
 
-| Title | Year | Domain |
-|---|---|---|
-| Healthcare AI Solutions | 2024 | Optimizing healthcare with cutting-edge medical AI |
-| Cyberbullying Detection AI | 2024 | Hybrid LSTM-BERT architecture for detection & intervention |
+| Title | Year |
+|---|---|
+| Optimizing healthcare towards a beneficial future with cutting-edge medical AI solutions | 2024 |
+| AI-driven cyberbullying detection and intervention utilizing hybrid LSTM-BERT architecture | 2024 |
 
 ### 🔬 Publications
 
 | Title | Publisher | Date |
 |---|---|---|
-| Anticorrosion & antifouling statistical analysis | John Wiley & Sons | Oct 2024 |
-| Portable IoT-integrated healthcare platform | John Wiley & Sons | Aug 2024 |
-| CPU vs GPU performance analysis | Springer, ETMCIS | Jun 2024 |
+| Statistical data analysis of anticorrosion and antifouling | John Wiley & Sons | Oct 2024 |
+| Portable and automated healthcare platform integrated with IoT | John Wiley & Sons | Aug 2024 |
+| Performance analysis of CPU and GPU processors using advanced data analysis | Springer, ETMCIS | Jun 2024 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethamNoelP&theme=react-dark&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&area_color=00D4AA&hide_border=true&custom_title=Preetham%20Noel%20P's%20Contribution%20Graph" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PreethamNoelP&theme=react-dark&bg_color=0d1117&color=00D4AA&line=00D4AA&point=ffffff&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Graph" width="97%"/>
 </p>
 
 <p align="center">
@@ -126,7 +60,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/PreethamNoelP"><img src="https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -137,7 +71,7 @@
   &nbsp;
   <a href="mailto:preethamnoel.05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=00D4AA"/></a>
   &nbsp;
-  <a href="https://github.com/PreethamNoelP"><img src="https://img.shields.io/github/followers/PreethamNoelP?label=FOLLOW&style=for-the-badge&logo=github&color=00D4AA&labelColor=1a1a2e"/></a>
+  <a href="https://github.com/PreethamNoelP?tab=followers"><img src="https://img.shields.io/badge/★%20Follow%20%40PreethamNoelP-00D4AA?style=for-the-badge&logo=github&logoColor=0d1117"/></a>
 </p>
 
 <br/>
