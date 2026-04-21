@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **AI/ML Engineer** at the intersection of research and real-world production impact
+- 🔭 **Data Scientist & AI/ML Engineer** at the intersection of research and real-world production impact
 - 🔬 **4× Published Author · 2× Patent Holder** - spanning healthcare AI, cybersecurity & NLP
 - 🛠️ Building **scalable AI systems** that bridge cutting-edge research and deployment
 - 💡 Core focus: **LLMs · RAG Pipelines · Agentic Systems · AI Product Management · Data Science**
