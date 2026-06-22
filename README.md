@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4AA&background=0f3460&center=true&vCenter=true&repeat=true&width=620&height=55&radius=10&lines=Data+Science+%26+AI%2FML+Engineer;AI+%2F+ML+Developer;Researcher+%7C+4%C3%97+Published+Author;Building+Scalable+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00D4AA&background=0f3460&center=true&vCenter=true&repeat=true&width=620&height=55&radius=10&lines=Data+Science+%26+AI%2FML+Engineer;AI+%2F+ML+Developer;Researcher+%7C+3%C3%97+Published+Author;Building+Scalable+AI+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/2%C3%97%20Patent%20Holder-0f3460?style=flat-square&logoColor=00D4AA"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/4%C3%97%20Published%20Author-0f3460?style=flat-square&logoColor=00D4AA"/>
+  <img src="https://img.shields.io/badge/3%C3%97%20Published%20Author-0f3460?style=flat-square&logoColor=00D4AA"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Data Scientist & AI/ML Engineer** at the intersection of research and real-world production impact
-- 🔬 **4× Published Author · 2× Patent Holder** - spanning healthcare AI, cybersecurity & NLP
+- 🔬 **3× Published Author · 2× Patent Holder** - spanning healthcare AI, cybersecurity & NLP
 - 🛠️ Building **scalable AI systems** that bridge cutting-edge research and deployment
 - 💡 Core focus: **LLMs · RAG Pipelines · Agentic Systems · AI Product Management · Data Science**
 - 🎯 I build intelligent systems - and question how to make them simpler, smarter, and more useful
